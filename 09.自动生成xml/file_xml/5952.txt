@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="GBK"?>
+<Voucher>
+	<AdmDivCode>31000啊</AdmDivCode>
+	<StYear>2022</StYear>
+	<VtCode>5952</VtCode>
+	<VouDate>20210101</VouDate>
+	<VoucherNo/>
+	<PayBankCode/>
+	<PayBankName/>
+	<AllFlag/>
+	<XAcctDate/>
+	<Hold1/>
+	<Hold2/>
+	<DetailList>
+		<Detail>
+			<Id/>
+			<AgencyCode>311111</AgencyCode>
+			<AgencyName>小明</AgencyName>
+			<FundTypeCode>1</FundTypeCode>
+			<FundTypeName>预算内</FundTypeName>
+			<AgencyAccoNo>03000000001</AgencyAccoNo>
+			<AgencyAccoName>账号名称</AgencyAccoName>
+			<AgencyBankName/>
+			<AccStatus/>
+			<Hold1/>
+			<Hold2/>
+			<Hold3/>
+			<Hold4/>
+		</Detail>
+		<Detail>
+			<Id/>
+			<AgencyCode>311111</AgencyCode>
+			<AgencyName>小明</AgencyName>
+			<FundTypeCode>1</FundTypeCode>
+			<FundTypeName>预算内</FundTypeName>
+			<AgencyAccoNo>03000000001</AgencyAccoNo>
+			<AgencyAccoName>账号名称</AgencyAccoName>
+			<AgencyBankName/>
+			<AccStatus/>
+			<Hold1/>
+			<Hold2/>
+			<Hold3/>
+			<Hold4/>
+		</Detail>
+	</DetailList>
+</Voucher>

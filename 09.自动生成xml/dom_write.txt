@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="GBK"?>
+<Voucher>
+	<AdmDivCode>310000</AdmDivCode>
+	<StYear>2021</StYear>
+	<VtCode>5952</VtCode>
+	<VouDate></VouDate>
+	<VoucherNo></VoucherNo>
+	<PayBankCode></PayBankCode>
+	<PayBankName></PayBankName>
+	<AllFlag></AllFlag>
+	<XAcctDate></XAcctDate>
+	<Hold1></Hold1>
+	<Hold2></Hold2>
+	<DetailList>
+		<Detail>
+			<Id></Id>
+			<AgencyCode></AgencyCode>
+			<AgencyName></AgencyName>
+			<FundTypeCode></FundTypeCode>
+			<FundTypeName></FundTypeName>
+			<AgencyAccoNo></AgencyAccoNo>
+			<AgencyAccoName></AgencyAccoName>
+			<AgencyBankName></AgencyBankName>
+			<AccStatus></AccStatus>
+			<Hold1></Hold1>
+			<Hold2></Hold2>
+			<Hold3></Hold3>
+			<Hold4></Hold4>
+		</Detail>
+		<Detail>
+			<Id></Id>
+			<AgencyCode></AgencyCode>
+			<AgencyName></AgencyName>
+			<FundTypeCode></FundTypeCode>
+			<FundTypeName></FundTypeName>
+			<AgencyAccoNo></AgencyAccoNo>
+			<AgencyAccoName></AgencyAccoName>
+			<AgencyBankName></AgencyBankName>
+			<AccStatus></AccStatus>
+			<Hold1></Hold1>
+			<Hold2></Hold2>
+			<Hold3></Hold3>
+			<Hold4></Hold4>
+		</Detail>
+	</DetailList>
+</Voucher>

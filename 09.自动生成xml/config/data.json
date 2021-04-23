@@ -1,0 +1,16 @@
+{
+	"Agency":
+		{"AgencyCode":"YSDW001",
+		"AgencyName":"预算单位001",
+		"FundTypeCode":"1",	
+		"FundTypeName":"预算内",
+		"AgencyAccoNo":"03000000001",
+		"AgencyAccoName":"账号名称",
+		"AdmDivCode":"400000",
+		"StYear":"2022",
+		"VouDate":"20210101"},
+	"Id":
+	{"Id":"yes",
+	"VoucherNo":"yes",
+	"AgentBillId":"Id"}
+}
